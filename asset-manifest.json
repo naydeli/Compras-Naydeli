@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compras-naydeli/static/css/main.d93d7c98.css",
+    "main.js": "/compras-naydeli/static/js/main.a2b48a6c.js",
+    "index.html": "/compras-naydeli/index.html",
+    "main.d93d7c98.css.map": "/compras-naydeli/static/css/main.d93d7c98.css.map",
+    "main.a2b48a6c.js.map": "/compras-naydeli/static/js/main.a2b48a6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d93d7c98.css",
+    "static/js/main.a2b48a6c.js"
+  ]
+}
